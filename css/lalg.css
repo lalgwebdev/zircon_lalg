@@ -1,0 +1,6 @@
+.az-row-group .views-field-view-node a.atoz-link::before {
+  content: "";
+}
+.az-row-group .views-field-view-node a.atoz-link {
+  padding-left: 0px;
+}
