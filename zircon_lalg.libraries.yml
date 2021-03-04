@@ -1,4 +1,4 @@
 global-styling:
-	css:
-		component:
-			css/lalg.css: {}
+  css:
+    component:
+      css/lalg.css: {}
