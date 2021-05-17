@@ -4,3 +4,12 @@
 .az-row-group .views-field-view-node a.atoz-link {
   padding-left: 0px;
 }
+#block-views-block-editorsnotes-block-1,
+#block-views-block-editor-s-notes-block-1 {  /*Editors Notes*/
+    font-size: 1.2vw;
+    padding: 1vw;
+    display: inline-block;
+    float: right;
+    width: 50%;
+    background: yellow;
+}
